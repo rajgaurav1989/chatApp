@@ -10,7 +10,7 @@ Steps to run client // made using npm install -g create-react-app
 1. cd client-chat-app
 2. npm install
 3. npm start
-4. open http://localhost:3000
+4. open http://localhost:3000 in multiple tabs
 
 
 Description :
